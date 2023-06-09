@@ -1,4 +1,14 @@
-### Hi there 👋
+<div align=center>
+<h2>Hwang Junha</h2> 
+<img src="https://img.shields.io/badge/Java-B8860B?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/SpringBoot-369F36?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/SpringSecurity-7CFC00?style=flat-square&logo=springsecurity&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-CC9966?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/MySQL-6495ED?style=flat-square&logo=mySQL&logoColor=white"/></a>
+<br><br>
+🎓 공주대학교 소프트웨어전공  <br>
+🦁 멋쟁이사자처럼 백엔드 스쿨 2기 수료
+</div>
 
 <!--
 **lay423/lay423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
